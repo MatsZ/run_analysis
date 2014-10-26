@@ -4,6 +4,8 @@ Code Book:
 
 The data given in the Features columns all represent the mean or standard deviation for the specific Subject (person), 
 Activity, and Feature. There are 180 observations in all; six activities for every 30 of the Subjects.
+For more information on the background, data and included Features, please see:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Row number, column 1
 
